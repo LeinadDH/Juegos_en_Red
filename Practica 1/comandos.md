@@ -95,18 +95,36 @@ C:\Users\Verde4>code
 
 ### **~**
 Regresa la cmd al directorio _Home_
+```
+C:\Users\Verde4>~
+```
 
 ### **/**
 Indica el directorio/carpeta al que se desea cambiar
+```
+C:\Users\Verde4>cd /Downloads
+```
 
 ### **.**
-Regresa al directorio local del computador
+Hace refrencia al directorio en el que se encuentra actualmente el usuario
+```
+C:\Users\Verde4>cd .
+```
 
 ### **..**
 Regresa una carpeta atras de la que estas ubicado
+```
+C:\Users\Verde4>cd ..
+```
 
 ### **-**
 Permite regresar a la carpeta/directorio en el que se estaba ubicado un momento antes
+```
+C:\Users\Verde4>cd -
+```
 
 ### **""**
 Permite acceder a archivos en los cuales su nombre utilize caracteres especiales o espacios
+```
+C:\Users\Verde4>rm "Nueva aplicación"
+```
