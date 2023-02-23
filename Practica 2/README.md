@@ -1,5 +1,11 @@
 # Daniel Eduardo Navarrete Flores
 
+## Programación grafica avanzada
+
+**Profesor:** Juan José Lopez
+
+En la materia estamos aprendiendo a utilizar la GPU del computador con el lenguaje C++, todo esto para tener la libertad de crear nuestros propios shaders, de momento estamos creando pantallas que rendericen la información que le mandamos por código y liberamos información del GPU y tener mejor manejo de memoria.
+
 ## Producción Musical
 
 **Profesora:** Ana Laura Hernandez
@@ -11,4 +17,3 @@ En la materia estamos aprendiendo los conceptos basicos de producción musical, 
 **Profesor:** Nicolas Gaudenzi
 
 En esta manteria estamos desarrollando un juego de conducción tipo arcade, la finalidad de la materia es el desarrollo de proyectos en equipo y tener la libertad creativa para desarrollar proyectos donde apliquemos lo aprendido en el semestre.La desición del proyecto esta basada en que queremos elaborar los 5 alumnos y que tan viable es desarrollar el proyecto en el tiempo que tenemos y que se espera de ese proyecto al final del semestre.  
-
