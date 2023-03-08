@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://leinaddh.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Juegos_en_Red/',
@@ -21,6 +21,7 @@ const config = {
   organizationName: 'LeinadDH', // Usually your GitHub org/user name.
   projectName: 'Juegos_en_Red', // Usually your repo name.
   deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
