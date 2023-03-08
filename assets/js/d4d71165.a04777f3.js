@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuegos_en_red=self.webpackChunkjuegos_en_red||[]).push([[5874],{9356:e=>{e.exports=JSON.parse('{"permalink":"/Juegos_en_Red/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

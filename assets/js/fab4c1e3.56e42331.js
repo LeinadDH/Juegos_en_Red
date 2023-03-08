@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuegos_en_red=self.webpackChunkjuegos_en_red||[]).push([[848],{6631:e=>{e.exports=JSON.parse('{"permalink":"/Juegos_en_Red/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
