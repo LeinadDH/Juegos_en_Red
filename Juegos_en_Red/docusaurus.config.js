@@ -21,7 +21,6 @@ const config = {
   organizationName: 'LeinadDH', // Usually your GitHub org/user name.
   projectName: 'Juegos_en_Red', // Usually your repo name.
   deploymentBranch: "gh-pages",
-  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
