@@ -1,14 +1,14 @@
-# Consolas de videojuegos Edicion Especial
+# Consolas de videojuegos Edición Especial
 
 ## Listado de Entidades
----
+
 **Consolas de videojuegos (ED)**
 
 - Consola_id **(PK)**
 - Nombre_consola **(FK)**
-- Nombre_edicion_especial
+- Nombre_edición_especial
 - Fecha
-- Numero_de_ventas
+- Número_de_ventas
 - Foto
 - Pais **(FK)**
 
@@ -19,15 +19,15 @@
 
 **Pais (EC)**
 - Pais_id **(PK)**
-- nombre
+- Nombre
 
 ## Relaciones
----
-1. Una **Consola** tiene un nombre **nombre de consola** (1 a M).
+
+1. Una **Consola** tiene un **nombre de consola** (1 a M).
 1. Una **consola** se fabrica en un **país** (1 a M).
 
 ## Diagrama 
----
+
 **Modelo Entidad - Relación**
 
 ![Modelo Entidad - Relación](Img/ModeloEntidadRelación.png)
