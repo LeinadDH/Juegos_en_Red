@@ -7,7 +7,7 @@
 - Consola_id **(PK)**
 - Nombre_consola **(FK)**
 - Nombre_edición_especial
-- Fecha
+- Año_de_salida
 - Número_de_ventas
 - Foto
 - Pais **(FK)**
@@ -16,6 +16,7 @@
 - Nombre_consola_id **(PK)**
 - Nombre
 - Generación
+- Año_de_salida
 
 **Pais (EC)**
 - Pais_id **(PK)**
@@ -23,7 +24,7 @@
 
 ## Relaciones
 
-1. Una **Consola** tiene un **nombre de consola** (1 a M).
+1. Una **Consola** tiene un **nombre de consola** (M a 1).
 1. Una **consola** se fabrica en un **país** (1 a M).
 
 ## Diagrama 
