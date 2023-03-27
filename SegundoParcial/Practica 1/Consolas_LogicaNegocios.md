@@ -8,7 +8,7 @@
 - Nombre_consola **(FK)**
 - Nombre_edición_especial
 - Año_de_salida
-- Número_de_ventas
+- Número_de_ejemplares
 - Foto
 - Pais **(FK)**
 
