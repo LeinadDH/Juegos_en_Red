@@ -52,6 +52,7 @@
 
 
 **Nombre de Consolas**
+
 1. Crear una consola.
 1. Leer todas las consolas.
 1. Leer una consola en particular.
@@ -60,8 +61,26 @@
 1. Eliminar una consola.
 
 **Paises**
+
 1. Crear un pais.
 1. Leer todos los paises.
 1. Leer un país en particular.
 1. Actualizar un país.
 1. Eliminar un país.
+
+## Validación
+
+**Consolas de videojuegos**
+
+1. El nombre de la edición especial no debe contener el nombre de la consola (Por ejemplo: al ser Wii Gold Edition, el campo nombre de edición especial no debe contener Wii unicamente gold edition).
+ 1. Se debe agregar la cantidad unidades fabricadas de consolas de edición con las terminaciones K (mil), M (millón), B (billón), en busqueda de ahorrar bytes
+ 1. En caso de no existir una cantidad especifica para las unidades fabricadas unicamente colocar la leyenda (Desconocido).
+
+ **Nombre de Consolas**
+
+ 1. Solo se pueden crear consolas en la base de datos con consolas de videojuegos que se vendieron de forma mundial
+
+ **Paises**
+
+ 1. El nombre de los Paises debe ser escrito con la primer letra mayuscula
+ 1. no se utilizaran abreviaciones para referirse a ningún país
