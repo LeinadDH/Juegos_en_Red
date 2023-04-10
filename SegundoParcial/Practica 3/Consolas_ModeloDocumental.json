@@ -1,0 +1,165 @@
+{
+    "ConsolasDeVideojuegos":
+    [
+        {
+            "Consolas_id":"1",
+            "Consola":
+            [
+                {
+                    "Nombre":"Nintendo 64",
+                    "Generación":"5",
+                    "Año_de_salida":"2001"
+                }
+            ],
+            "Nombre_edicion_especial":"Pikachu Edition",
+            "Año_de_salida":"2000",
+            "Número_de_ejemplares":"5k - 10k",
+            "Foto":"https://i.ytimg.com/vi/wvdPNGXriEI/maxresdefault.jpg",
+            "Pais":"Japón"
+        },
+        {
+            "Consolas_id":"2",
+            "Consola":
+            [
+                {
+                    "Nombre":"Nintendo 64",
+                    "Generación":"5",
+                    "Año_de_salida":"2001"
+                }
+            ],
+            "Nombre_edicion_especial":"Donkey Kong Edition",
+            "Año_de_salida":"1999",
+            "Número_de_ejemplares":"Desconocido",
+            "Foto":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81ALHM9vKKL.jpg",
+            "Pais":"Japón"
+        },
+        {
+            "Consolas_id":"3",
+            "Consola":
+            [
+                {
+                    "Nombre":"PlayStation 4",
+                    "Generación":"8",
+                    "Año_de_salida":"2013"
+                }
+            ],
+            "Nombre_edicion_especial":"20th aniversary",
+            "Año_de_salida":"2014",
+            "Número_de_ejemplares":"12300",
+            "Foto":"https://http2.mlstatic.com/D_NQ_NP_992476-MLA40191685983_122019-O.jpg",
+            "Pais":"Japón"
+        },
+        {
+            "Consolas_id":"4",
+            "Consola":
+            [
+                {
+                    "Nombre":"Xbox One",
+                    "Generación":"8",
+                    "Año_de_salida":"2013"
+                }
+            ],
+            "Nombre_edicion_especial":"Titanfall Edition",
+            "Año_de_salida":"2014",
+            "Número_de_ejemplares":"5k",
+            "Foto":"https://www.hd-tecnologia.com/imagenes/articulos/2014/01/Xbox-One-Titanfall-Edition.png",
+            "Pais":"Estados Unidos de América"
+        },
+        {
+            "Consolas_id":"5",
+            "Consola":
+            [
+                {
+                    "Nombre":"Super Nintendo Entertainment System",
+                    "Generación":"4",
+                    "Año_de_salida":"1994"
+                }
+            ],
+            "Nombre_edicion_especial":"World Champion Ships",
+            "Año_de_salida":"1990",
+            "Número_de_ejemplares":"116",
+            "Foto":"https://i.ytimg.com/vi/hdXYv3_9JXM/maxresdefault.jpg",
+            "Pais":"Japón"
+        },
+        {
+            "Consolas_id":"6",
+            "Consola":
+            [
+                {
+                    "Nombre":"Atari 2600",
+                    "Generación":"2",
+                    "Año_de_salida":"1980"
+                }
+            ],
+            "Nombre_edicion_especial":"Air Raid",
+            "Año_de_salida":"1982",
+            "Número_de_ejemplares":"20",
+            "Foto":"https://commondatastorage.googleapis.com/images.pricecharting.com/20516a811a03dd9501bb6685e72d52d084a92a1bf23b7756c0cd34905477c901/240.jpg",
+            "Pais":"Estados Unidos de América"
+        },
+        {
+            "Consolas_id":"7",
+            "Consola":
+            [
+                {
+                    "Nombre":"Game Boy ",
+                    "Generación":"2",
+                    "Año_de_salida":"1985"
+                }
+            ],
+            "Nombre_edicion_especial":"Mirinda",
+            "Año_de_salida":"1993",
+            "Número_de_ejemplares":"Desconocido",
+            "Foto":"https://http2.mlstatic.com/D_NQ_NP_661250-MLM52652627921_112022-O.jpg",
+            "Pais":"México"
+        },
+        {
+            "Consolas_id":"8",
+            "Consola":
+            [
+                {
+                    "Nombre":"Game Boy Advance SP ",
+                    "Generación":"4",
+                    "Año_de_salida":"1999"
+                }
+            ],
+            "Nombre_edicion_especial":"Pokémon Center New York GOLD",
+            "Año_de_salida":"2004",
+            "Número_de_ejemplares":"Desconocido",
+            "Foto":"https://i.ebayimg.com/images/g/M5YAAOSwsu9ixQeW/s-l500.jpg",
+            "Pais":"Estados Unidos de América"
+        },
+        {
+            "Consolas_id":"9",
+            "Consola":
+            [
+                {
+                    "Nombre":"Sega Game Gear ",
+                    "Generación":"2",
+                    "Año_de_salida":"1988"
+                }
+            ],
+            "Nombre_edicion_especial":"Coca-Cola edition",
+            "Año_de_salida":"1994",
+            "Número_de_ejemplares":"Desconocido",
+            "Foto":"https://consolevariations.com/storage/images/variations/consoles/sega-game-gear-coca-cola-red/large/sega-game-gear-coca-cola-red.jpg",
+            "Pais":"Japón"
+        },
+        {
+            "Consolas_id":"10",
+            "Consola":
+            [
+                {
+                    "Nombre":"PlayStation Portable",
+                    "Generación":"5",
+                    "Año_de_salida":"2004"
+                }
+            ],
+            "Nombre_edicion_especial":"God of War Entertainment Pack",
+            "Año_de_salida":"2008",
+            "Número_de_ejemplares":"Desconocido",
+            "Foto":"http://farm3.static.flickr.com/2123/2545857787_030f54c421.jpg",
+            "Pais":"Estados Unidos de América"
+        }
+    ]
+}
